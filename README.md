@@ -7,3 +7,5 @@
 * If temperature dips below that point, the fan turns off.<br/>
 * A red LED and a green LED are used to signify if the fan is off or on respectively.<br/>
 * A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in.<br/>
+
+* Here are two videos showing it in action: [Video1](https://drive.google.com/file/d/1gk494CJtEBQObdrArnRuGBvn9tSPHHUs/view?usp=sharing) and [Video2](https://drive.google.com/file/d/1i_PO3feknaX6hNtdP3vwDD8R1s_I9jNk/view?usp=sharing)

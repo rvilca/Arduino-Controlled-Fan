@@ -1,5 +1,5 @@
 # Arduino-Controlled-Fan
-DC motor fan connected to an Arduino Mega 2560 who's speed can be either controlled by a potentiometer or by the temperature.\ 
+DC motor fan connected to an Arduino Mega 2560 who's speed can be either controlled by a potentiometer or by the temperature. \ 
 Manual mode uses a potentiometer and push button to control the fan while Auto mode uses a TMP36 temperature sensor to control the fan.\ 
 A remote control is used to switch between the two modes. 
 In Manual mode a push button is used to turn the fan on and off and potentionmeter is used to control the speed.

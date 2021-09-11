@@ -8,5 +8,5 @@
 * A red LED and a green LED are used to signify if the fan is off or on respectively.<br/>
 * A LCD screen shows the temperature being read in Fahrenheit and what mode the fan is currently in.<br/>
 
-* Here is a picture of the Tinkercad simulation, as well as a slideshow presentation with some background on the project: [Picture](https://raw.githubusercontent.com/rvilca/Arduino-Controlled-Fan/main/Edit%205%20459%20with%20newest%20code.png) and [Presentation](https://docs.google.com/presentation/d/1WH_MV_sWeM89hG3IIGQj6spmC00l_MNr5ah9GDILRXQ/edit?usp=sharing)
-* Here are two videos showing it in action: [Video1](https://drive.google.com/file/d/1gk494CJtEBQObdrArnRuGBvn9tSPHHUs/view?usp=sharing) and [Video2](https://drive.google.com/file/d/1i_PO3feknaX6hNtdP3vwDD8R1s_I9jNk/view?usp=sharing)
+* Here is a picture of the Tinkercad simulation, as well as two videos showing it in action: [Album](https://photos.app.goo.gl/taE7hkpG25e6g4wKA) 
+* Here is a slideshow presentation with some background on the project: [Presentation](https://docs.google.com/presentation/d/1WH_MV_sWeM89hG3IIGQj6spmC00l_MNr5ah9GDILRXQ/edit?usp=sharing)
